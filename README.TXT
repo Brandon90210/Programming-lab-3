@@ -23,7 +23,24 @@ It has exceeded the limit of 6 and so the value was not changed.
 11. "Error: '.class' expected" is the message i get and this can be fixed
 by removing the int in the brackets and only leaving the number
 
-12. 
+13. The only valid value is 0
+
+14. -2, -4, -7
+
+15. the second and fifth expressions are true
+
+16. boolean a = true, boolean b = true
+
+17. a != b
+
+18. It shows a 3 digit value the one that i set it to. It also shows (int)
+
+19. No there is no difference as it will share the same result even if flipped
+
+20. the result for the first expression is "12cat" and the result for the second expression is "cat39"
+these are the results because of the way that the string is ordered and where "cat" is placed.
+
+21.
 
 
 
